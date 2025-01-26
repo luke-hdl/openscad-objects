@@ -1,0 +1,15 @@
+$innerPieceRadius = 36.5;
+$netCupRadius = 26.5;
+$rimRadius = 45;
+$innerPieceHeight = 20;
+$rimHeight = 10;
+
+difference(){
+  union(){
+        cylinder(h=$rimHeight, r=$rimRadius);
+        cylinder(h=$innerPieceHeight, r=$innerPieceRadius);
+    };
+    translate([0,0,-0.01]){
+        cylinder(h=$innerPieceHeight * 3, r=$netCupRadius);
+    }
+}
