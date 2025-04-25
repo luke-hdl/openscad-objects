@@ -20,3 +20,6 @@ Generic rectangular case. Adjust the size and cut windows as-needed for your Dig
 
 ## jar-kratky-netcup-holder
 Netcup holder for 2-inch/"wide mouth" jars. Use it to grow hydroponic herbs. Be warned that just using a clear glass jar, you're gonna get mold. 
+
+## weaving-tablet
+A tablet used for weaving belts, straps, and decorative edges. Use it with your inkle loom. Insistently use it with your rigid heddle loom. Use it how you please. 
